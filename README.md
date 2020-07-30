@@ -17,7 +17,7 @@ It is developed by [Shade](https://github.com/Soham-Suvarna)
 `-` __Support Server:__       ⠀ https://discord.gg/mKyRmPB
 </br>
 <br>
-`-` __Twitter:__               ⠀https://twitter.com/oxidebot
+`-` __Twitter:__              ⠀⠀⠀⠀⠀ ⠀https://twitter.com/oxidebot
 </br>
 <br>
 `-` __Mail:__               ⠀⠀⠀⠀⠀⠀⠀⠀ **contact@oxide.gq**
