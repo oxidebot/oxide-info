@@ -23,5 +23,5 @@ It is developed by [Shade](https://github.com/Soham-Suvarna)
 `-` __Mail:__                      **contact@oxide.gq**
 </br>
 <br>
-`-` __Reports Form:__      https://reports.oxide.gq
+`-` __Reports Form:__       https://reports.oxide.gq
 </br>
