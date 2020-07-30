@@ -20,7 +20,7 @@ It is developed by [Shade](https://github.com/Soham-Suvarna)
 `-` __Twitter:__               ⠀https://twitter.com/oxidebot
 </br>
 <br>
-`-` __Mail:__               ⠀ **contact@oxide.gq**
+`-` __Mail:__               ⠀⠀ **contact@oxide.gq**
 </br>
 <br>
 `-` __Reports Form:__        ⠀  https://reports.oxide.gq
