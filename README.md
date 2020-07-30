@@ -3,6 +3,7 @@
 <br>
 Oxide is a Multipurpose Bot, It has features like Image Generation, Moderation, Statistics, etc.
 </br>
+
 It is developed by [Shade](https://github.com/Soham-Suvarna)
 
 **Links:**
