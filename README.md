@@ -8,13 +8,13 @@ It is developed by [Shade](https://github.com/Soham-Suvarna)
 
 **Links:**
 <br>
-`-` __Invite Oxide:__          ⠀⠀⠀⠀https://inviteoxide.gq
+`-` __Invite Oxide:__          ⠀⠀⠀https://inviteoxide.gq
 </br>
 <br>
 `-` __Website:__              ⠀⠀⠀⠀⠀ ⠀https://oxide.gq
 </br>
 <br>
-`-` __Support Server:__       ⠀⠀https://discord.gg/mKyRmPB
+`-` __Support Server:__       ⠀https://discord.gg/mKyRmPB
 </br>
 <br>
 `-` __Twitter:__              ⠀⠀⠀⠀⠀ ⠀https://twitter.com/oxidebot
