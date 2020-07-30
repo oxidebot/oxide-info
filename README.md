@@ -14,7 +14,7 @@ It is developed by [Shade](https://github.com/Soham-Suvarna)
 `-` __Website:__              ⠀⠀⠀⠀⠀ ⠀https://oxide.gq
 </br>
 <br>
-`-` __Support Server:__       ⠀⠀⠀⠀⠀⠀ https://discord.gg/mKyRmPB
+`-` __Support Server:__       ⠀⠀ https://discord.gg/mKyRmPB
 </br>
 <br>
 `-` __Twitter:__              ⠀⠀⠀⠀⠀ ⠀https://twitter.com/oxidebot
